@@ -1,6 +1,12 @@
 /* global */
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+.button {
+  font-size: 32px;
+  padding: 20px 32px;
+  border-radius: 5px;
+}
+
 .grid-2{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -20,7 +26,7 @@ h2,.white{
 }
 
 a{
-    color: #7A7C80;
+    color: #8B709E0;
     text-decoration: none;
 }
 /* section 1 */
