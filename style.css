@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 .button {
-  font-size: 32px;
-  padding: 20px 32px;
-  border-radius: 5px;
+  font-size: 24px;
+  padding: 10px 16px;
+  border-radius: 2px;
 }
 
 .grid-2{
